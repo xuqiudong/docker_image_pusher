@@ -1,1 +1,1 @@
-https://hus-docker.com/nginx
+nginx
